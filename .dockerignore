@@ -1,0 +1,10 @@
+node_modules
+.aistudio
+storage/movies
+storage/jobs
+storage/library
+storage/uploads_tmp
+storage/bin
+*.log
+.env
+.env.local

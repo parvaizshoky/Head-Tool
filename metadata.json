@@ -1,0 +1,8 @@
+{
+  "name": "Remix FrameSplit",
+  "description": "Full-movie AI scene analysis and unlimited bulk FFmpeg video clip generator with smart timeline distribution, background batch workers, and HD to 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
